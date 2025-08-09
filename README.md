@@ -42,7 +42,7 @@ Responsive, modern, and easy to use.
 
 ## 📸 Demo
 
-> [DEMO LINK](https://jasialazyrka.github.io/react_todo-app-with-api/)
+> [DEMO LINK](https://jasialazyrka.github.io/TodoApp/)
 
 ---
 
